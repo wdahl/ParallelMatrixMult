@@ -2,7 +2,7 @@
 Parallel implementation of Matrix multiplication
 
 ## Part_1.c
-serial implementation of matrix multiplication both in the naive way and using the strassens method
+Serial implementation of matrix multiplication both in the naive way and using the strassens method
 
 Run:
 ```bash
@@ -10,7 +10,7 @@ Run:
 ```
 
 ## Part_2_parellel.c 
-parellel implementation of summing numbers
+Parellel implementation of summing numbers
 
 Run:
 ```bash
@@ -18,7 +18,7 @@ Run:
 ```
 
 ## Part_3.c
-parellel implementation of matrix multiplication
+Parellel implementation of matrix multiplication
 
 Run:
 ```bash
@@ -26,4 +26,10 @@ Run:
 ```
 
 ## timing.c
-provides interface for timing execution
+Provides interface for timing execution
+
+## Compile Code
+To complie the code run the makefile in the terminal:
+```bash
+make
+```
