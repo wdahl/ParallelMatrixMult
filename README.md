@@ -18,7 +18,7 @@ Run:
 ```
 
 ## Part_3.c
-Parellel implementation of matrix multiplication
+Parellel implementation to find the distrobution for each number from 1 to 10 in a matrix
 
 Run:
 ```bash
